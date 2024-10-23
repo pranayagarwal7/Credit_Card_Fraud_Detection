@@ -1,2 +1,3 @@
-# Credit_Card_Fraud_Detection
-Credit Card Fraud Detection  Identifies fraudulent transactions using machine learning and rule-based systems. Analyzes transaction data for patterns and anomalies. Applies predefined rules to flag suspicious activity. Prevents financial losses for consumers and businesses.
+### Credit Card Fraud Detection
+
+Credit card fraud detection involves identifying fraudulent transactions before they are authorized. This is typically done using a combination of machine learning algorithms and rule-based systems. Machine learning models analyze vast amounts of transaction data to identify patterns and anomalies that may indicate fraudulent activity. Rule-based systems, on the other hand, apply predefined rules to flag suspicious transactions based on specific criteria such as unusual spending patterns or high-risk locations. By combining these methods, fraud detection systems can effectively prevent financial losses for both consumers and businesses.
